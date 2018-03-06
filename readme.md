@@ -1,10 +1,3 @@
-# HAHA I DID THIS FIRST
+# Useful Links for Development:
 
-## THIS IS A README
-
-
-### This is a test
-
-[my name is Alexis](www.google.com)
-
-[my name isn't Alexis, hehe](clubpenguinonline.com)
+[List of React EventListeners](https://reactjs.org/docs/events.html#supported-events)
